@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wattamwarp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Padmanabh 
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wattamwarp874@gmail.com
 
